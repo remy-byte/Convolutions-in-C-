@@ -21,3 +21,4 @@ There are two main methods, one having static declaration of the variables used,
 
 
 
+The purpose is to test out different setups with threads and count their time in nanoseconds and log those values.
